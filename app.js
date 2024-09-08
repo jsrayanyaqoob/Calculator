@@ -4,6 +4,7 @@
 var display = document.querySelector("#display");
 
 
+
 function displayForInput(input){
     display.value += input;
 }
